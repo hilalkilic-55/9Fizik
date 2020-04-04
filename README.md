@@ -69,3 +69,6 @@
 •Finally add two cups of warm water, five taplespoons of olive oil and cook it for about 35 minutes until the rice is tender.
 
 •The sarma is ready. BON APPÉTITE...
+
+
+![sarma](https://lh3.googleusercontent.com/proxy/qskjhDntr2Rnvj7X51FnUiwl6K9Ns9sMw23pwoeML0gOAXQ0ybicZwEHj_s-sOKaegK-XfKAyPlVT52rkV7_b5Voci4DUO_SZn-jYx-JDqM53EaBq5EP1GxighzZnyt_4kc)
