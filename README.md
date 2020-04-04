@@ -5,6 +5,7 @@
 •1 fincan pirinç
 
 •1 adet soğan
+
 •1 demet maydanoz nane ve dereotu(dogranmış)
 
 •5 yemek kaşığı zeytin yağı
@@ -43,9 +44,7 @@
 
 •A bunch of parsley, mint and dill (chopped)
 
-
 •5 tablespoons of olive oil
-
 
 •1 teaspoon of salt
 
