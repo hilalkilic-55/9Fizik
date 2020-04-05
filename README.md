@@ -72,3 +72,11 @@
 
 
 ![sarma](https://lh3.googleusercontent.com/proxy/qskjhDntr2Rnvj7X51FnUiwl6K9Ns9sMw23pwoeML0gOAXQ0ybicZwEHj_s-sOKaegK-XfKAyPlVT52rkV7_b5Voci4DUO_SZn-jYx-JDqM53EaBq5EP1GxighzZnyt_4kc)
+
+| | | |
+|-|-|-|
+|**SIZE**| **CALORI** |
+| 1 Turkish Sarma(nearly 25g) | 32 |
+| 1 Pot Turkish Sarma(nearly 100 pieces) | 3200 |
+| 100g Turkish Sarma| 128 |
+
