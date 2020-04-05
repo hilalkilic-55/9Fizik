@@ -80,3 +80,14 @@
 | 1 Pot Turkish Sarma(nearly 100 pieces) | 3200 |
 | 100g Turkish Sarma| 128 |
 
+
+# VÜCUT KİTLE ENDEKSİ
+
+| | | | | |
+|-|-|-|-|-|
+| Aile Bireyleri | Kütle Değeri(kg) |Boy Uzunluğu(m)| Beden Kitle Endeksi(kg/m)| Sonuç |
+| Annem | 80 | 1.60 | 32 | Şişman |
+| Babam | 80 | 1.70 | 28.5 | Fazla Kilolu |
+| Kiz Kardeşim | 34 | 1.47 | 22.4 | Sağlıklı Kilolu |
+| Erkek Kardeşim | 15 | 1.00 | 15 | Zayıf |
+| Ben | 42 | 1.57 | 17.5 | Zayıf |
